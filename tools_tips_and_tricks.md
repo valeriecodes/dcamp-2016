@@ -1,25 +1,25 @@
 ### TOOLS, TIPS, & TRICKS SESSION
 
-* yaml parser
-* json validator
-* rubular (visualizes the regular expression given in Ruby against a text)
+* [yaml parser](http://yaml-online-parser.appspot.com/)
+* json validators [json formatter](https://jsonformatter.curiousconcept.com/)
+* [rubular](http://rubular.com/) (visualizes the regular expression given in Ruby against a text)
 * dirtymock.com (can clean up html, javascript, etc.) 
-* Postman chrome extension (GUI for curl; raw http requests)
+* [Postman chrome extension](https://www.getpostman.com/) (GUI for curl; raw http requests)
 * hurl.it (similar to Postman)
 * Ngrok 
-* JSON View Chrome extension (for viewing JSON in the browser)
-* JQ (for working with JSON; defines a query language for parsing the JSON data structure) 
+* [JSON View Chrome extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) (for viewing JSON in the browser)
+* [JQ](https://stedolan.github.io/jq/) (for working with JSON; defines a query language for parsing the JSON data structure) 
 * Capture (for taking and sharing screenshots)
 * Giphy Capture (or Grabber?)  (for making a gif of what’s happening on the screen)
 * Spectacle
-* Dash (utility that gives the offline documentation; integrates with Off road)
+* [Dash](https://kapeli.com/dash) (utility that gives the offline documentation; integrates with Off road)
 * Heroku feature— “review app” 
 * isyourmonitoron.com
-* graphisrepl.com  (graphus is a tool like markdown) 
+* [Graphviz](http://www.graphvizrepl.com/)  (graphviz is a tool like markdown) 
 * pullrequestroulette.com
 * Vim extensions: Janus (set of customizations for Ruby programmers) 
 	www.github.com/carlhuda/janus
-* Vim: remapping the CAPSLOCK key to Ctrl
+* Vim: remapping the CAPSLOCK key to Ctrl-- You can do this universally on OS X/macOS: System Preferences → Keyboard → Keyboard (tab) → Modifier Keys (lower right button).
 * bit.ly/rubygotchas
 
 
